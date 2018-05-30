@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Privacy Subsystem implementation for filter_syntaxhighlighter.
+ * Privacy Subsystem implementation for atto_hr.
  *
- * @package    filter_syntaxhighlighter
+ * @package    atto_hr
  * @copyright  2018 Damyon Wiese  <damyon@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
