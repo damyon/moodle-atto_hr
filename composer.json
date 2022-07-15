@@ -1,0 +1,15 @@
+{
+    "name": "damyon-atto/hr",
+    "description": "Horizontal Rule for Atto",
+    "type": "moodle-atto",
+    "require": {
+        "composer/installers": "^2.1"
+    },
+    "license": "http://www.gnu.org/copyleft/gpl.html",
+    "authors": [
+        {
+            "name": "Damyon Wiese",
+            "email": "damyon.wiese@gmail.com"
+        }
+    ]
+}
